@@ -1,5 +1,7 @@
 # Annotation
 
+## Very detailed annotation
+
 The complete description of the annotation workflow can be found [here](https://docs.google.com/document/d/1I3Xa67EOMOGoaBJnjxlZcuyEFHYq21gwS4r59t_Mw5g/edit?usp=sharing), and an updated version [here](https://docs.google.com/document/d/1XsRR56gn3LvpToTtmy7_YlLtG9bybZImhVMvX1SISrE/edit). Steps below only explain the process of selection of a text for annotation.
 
 1. Open the [priority list](https://github.com/OpenITI/Annotation/blob/master/priority_list.csv). It is organized chronologically and is searcheable (the field with a magnifying glass, saying `Search this file`).
